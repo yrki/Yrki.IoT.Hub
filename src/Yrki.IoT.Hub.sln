@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yrki.IoT.Hub", "Yrki.IoT.Hub\Yrki.IoT.Hub.csproj", "{5EB1F86F-7FD3-4CDB-82B7-ED76D3BDC680}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yrki.Iot.Hub.Tests", "Yrki.Iot.Hub.Tests\Yrki.Iot.Hub.Tests.csproj", "{F2022605-E409-4FBD-95F4-09BC54410D5E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution items", "Solution items", "{9DD87019-6323-40F1-A7E0-AD95DE64D893}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EB1F86F-7FD3-4CDB-82B7-ED76D3BDC680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB1F86F-7FD3-4CDB-82B7-ED76D3BDC680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB1F86F-7FD3-4CDB-82B7-ED76D3BDC680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB1F86F-7FD3-4CDB-82B7-ED76D3BDC680}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2022605-E409-4FBD-95F4-09BC54410D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2022605-E409-4FBD-95F4-09BC54410D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2022605-E409-4FBD-95F4-09BC54410D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2022605-E409-4FBD-95F4-09BC54410D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {526499AB-ED82-48F7-8C61-089E217497FC}
+	EndGlobalSection
+EndGlobal
